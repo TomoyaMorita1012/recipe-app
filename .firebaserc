@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "recipe-app-f1f3c",
+    "recipe-app": "recipe-app-f1f3c",
+    "master": "recipe-app-f1f3c"
+  }
+}
