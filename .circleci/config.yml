@@ -13,7 +13,7 @@ jobs:
           command: yarn build
       - run:
           name: deploy to Firebase Hosting
-          command: ./node_modules/.bin/firebase deploy --project="recipe-app" --token "$FIREBASE_TOKEN" # プロジェクト上のfirebase-toolsでデプロイします
+          command: ./node_modules/.bin/firebase deploy --project="recipe-app-800b2" --token "$FIREBASE_TOKEN" # プロジェクト上のfirebase-toolsでデプロイします
 
 workflows:
   version: 2
