@@ -3,7 +3,7 @@
     <!-- アプリケーションのタイトル -->
     <div class="title">
       <div class="app-title">
-        <h1>今日のご飯は何にする？？</h1>
+        <h1>今日のご飯は何にする？</h1>
       </div>
     </div>
     <!-- routerセクション -->
