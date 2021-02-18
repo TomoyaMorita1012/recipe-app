@@ -2,7 +2,7 @@ version: 2
 jobs:
   deploy_dev: 
     docker:
-      - image: circleci/node:10.7
+      - image: circleci/node:10.12
     steps:
       - checkout
       - run: # 順に実行したいコマンドとコマンドに名前をつけます
